@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bukunmiisa 
 - 👀 I’m interested in everything software 
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on projects that enhance programming skills
+- 💞️ I’m looking to collaborate on projects that enhance my programming skills
 - 📫 How to reach me: www.linkedin.com/in/bukunmidedenuola
 
 <!---
